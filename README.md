@@ -1,8 +1,8 @@
-# 🏄‍♂️ Murilo Besson (tony)
+# 🏄‍♂️ Murilo Toniol
 
-**`Digital Craftsman (Developer)`**
+**`Digital Craftsman in development (Developer)`**
 
-<p style="font-size: 16px;">Sou um desenvolvedor Junior, atuando como suporte técnico na empresa Atak Sistemas</p>
+<p style="font-size: 16px;">Desenvolvedor júnior atuando como suporte técnico na ATAK Sistemas. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas no período noturno na Cesumar. Meu tempo livre, na maior parte das vezes, é usado para o meu desenvolvimento pessoal e das minhas habilidades de programação. Haverá mais conteudo em breve, mas por enquanto sinta-se livre para olhar em volta!</p>
 
 ---
 
