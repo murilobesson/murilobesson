@@ -1,4 +1,4 @@
-# 🏄‍♂️ Murilo Besson
+# ♟ Murilo Besson
 
 **`Digital Craftsman in development`**
 
