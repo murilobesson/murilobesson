@@ -1,5 +1,3 @@
-# ♟ Murilo Besson
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="JavaScript" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
